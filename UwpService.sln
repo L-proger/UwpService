@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UwpService", "UwpService\UwpService.csproj", "{6CF394B2-08FE-4F86-A6D8-92BCA6F00B54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{2B39D1FA-1692-4618-9FB7-93F8A1B6EEAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CF394B2-08FE-4F86-A6D8-92BCA6F00B54}.Debug|x64.ActiveCfg = Debug|x64
+		{6CF394B2-08FE-4F86-A6D8-92BCA6F00B54}.Debug|x64.Build.0 = Debug|x64
+		{6CF394B2-08FE-4F86-A6D8-92BCA6F00B54}.Debug|x64.Deploy.0 = Debug|x64
+		{6CF394B2-08FE-4F86-A6D8-92BCA6F00B54}.Release|x64.ActiveCfg = Release|x64
+		{6CF394B2-08FE-4F86-A6D8-92BCA6F00B54}.Release|x64.Build.0 = Release|x64
+		{6CF394B2-08FE-4F86-A6D8-92BCA6F00B54}.Release|x64.Deploy.0 = Release|x64
+		{2B39D1FA-1692-4618-9FB7-93F8A1B6EEAF}.Debug|x64.ActiveCfg = Debug|x64
+		{2B39D1FA-1692-4618-9FB7-93F8A1B6EEAF}.Debug|x64.Build.0 = Debug|x64
+		{2B39D1FA-1692-4618-9FB7-93F8A1B6EEAF}.Release|x64.ActiveCfg = Release|x64
+		{2B39D1FA-1692-4618-9FB7-93F8A1B6EEAF}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6366874D-6E5F-4256-8AA3-7D46FEC447A3}
+	EndGlobalSection
+EndGlobal
